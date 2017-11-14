@@ -1,0 +1,27 @@
+dic_hi.Add("北京", new string[] { "北京", "010000", "010" });
+dic_hi.Add("上海", new string[] { "上海", "020000", "020" });
+dic_hi.Add("深圳", new string[] { "深圳", "040000", "050090" });
+dic_hi.Add("广州", new string[] { "广州", "030200", "050020" });
+dic_hi.Add("杭州", new string[] { "杭州", "080200", "070020" });
+dic_hi.Add("成都", new string[] { "成都", "090200", "280020" });
+dic_hi.Add("南京", new string[] { "南京", "070200", "060020" });
+dic_hi.Add("武汉", new string[] { "武汉", "180200", "170020" });
+dic_hi.Add("西安", new string[] { "西安", "200200", "270020" });
+dic_hi.Add("长沙", new string[] { "长沙", "190200", "180020" });
+             
+dic_hi.Add("重庆", new string[] { "重庆", "060000", "040" });
+dic_hi.Add("郑州", new string[] { "郑州", "170200", "150020" });
+dic_hi.Add("青岛", new string[] { "青岛", "120300", "250070" });
+dic_hi.Add("合肥", new string[] { "合肥", "150200", "080020" });
+dic_hi.Add("福州", new string[] { "福州", "110200", "090020" });
+dic_hi.Add("济南", new string[] { "济南", "120200", "250020" });
+dic_hi.Add("大连", new string[] { "大连", "230300", "210040" });
+dic_hi.Add("珠海", new string[] { "珠海", "030500", "050140" });
+dic_hi.Add("沈阳", new string[] { "沈阳", "230200", "210020" });
+dic_hi.Add("石家庄", new string[] { "石家庄", "160200", "140020" });
+dic_hi.Add("昆明", new string[] { "昆明", "250200", "310020" });
+dic_hi.Add("南昌", new string[] { "南昌", "130200", "200020" });
+dic_hi.Add("南宁", new string[] { "南宁", "140200", "110020" });
+dic_hi.Add("贵阳", new string[] { "贵阳", "260200", "120020" });
+dic_hi.Add("太原", new string[] { "太原", "210200", "260020" });
+dic_hi.Add("兰州", new string[] { "兰州", "270200", "100020" });
