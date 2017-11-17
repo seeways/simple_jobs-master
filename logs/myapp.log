@@ -2426,3 +2426,137 @@
 2017-11-14 16:14:41 main.py[line:238] DEBUG -------->17
 2017-11-14 16:14:41 main.py[line:242] INFO --->Now is saving! job_nums=1188
 2017-11-14 16:14:41 main.py[line:291] INFO ============>end!
+2017-11-16 11:35:03 main.py[line:289] INFO ============>bengin...
+2017-11-16 11:35:09 main.py[line:242] INFO --->Now is saving! job_nums=1821
+2017-11-16 11:35:11 main.py[line:242] INFO --->Now is saving! job_nums=3047
+2017-11-16 11:35:14 main.py[line:242] INFO --->Now is saving! job_nums=1748
+2017-11-16 11:35:17 main.py[line:242] INFO --->Now is saving! job_nums=2523
+2017-11-16 11:35:20 main.py[line:242] INFO --->Now is saving! job_nums=6034
+2017-11-16 11:35:22 main.py[line:242] INFO --->Now is saving! job_nums=10073
+2017-11-16 11:35:25 main.py[line:242] INFO --->Now is saving! job_nums=5731
+2017-11-16 11:35:28 main.py[line:242] INFO --->Now is saving! job_nums=6006
+2017-11-16 11:35:31 main.py[line:242] INFO --->Now is saving! job_nums=2901
+2017-11-16 11:35:33 main.py[line:242] INFO --->Now is saving! job_nums=4212
+2017-11-16 11:35:37 main.py[line:242] INFO --->Now is saving! job_nums=3267
+2017-11-16 11:35:39 main.py[line:242] INFO --->Now is saving! job_nums=3130
+2017-11-16 11:35:40 main.py[line:230] DEBUG -------->15
+2017-11-16 11:35:40 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:35:42 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:35:42 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:35:42 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:35:42 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:35:42 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:35:42 main.py[line:232] DEBUG -------->16
+2017-11-16 11:35:42 main.py[line:238] DEBUG -------->17
+2017-11-16 11:35:42 main.py[line:242] INFO --->Now is saving! job_nums=2805
+2017-11-16 11:35:42 main.py[line:230] DEBUG -------->15
+2017-11-16 11:35:42 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:35:45 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:35:45 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:35:45 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:35:45 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:35:45 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:35:45 main.py[line:232] DEBUG -------->16
+2017-11-16 11:35:45 main.py[line:238] DEBUG -------->17
+2017-11-16 11:35:45 main.py[line:242] INFO --->Now is saving! job_nums=1424
+2017-11-16 11:35:45 main.py[line:230] DEBUG -------->15
+2017-11-16 11:35:45 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:35:47 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:35:47 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:35:48 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:35:48 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:35:48 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:35:48 main.py[line:232] DEBUG -------->16
+2017-11-16 11:35:48 main.py[line:238] DEBUG -------->17
+2017-11-16 11:35:48 main.py[line:242] INFO --->Now is saving! job_nums=927
+2017-11-16 11:35:48 main.py[line:230] DEBUG -------->15
+2017-11-16 11:35:48 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:35:50 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:35:50 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:35:51 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:35:51 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:35:51 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:35:51 main.py[line:232] DEBUG -------->16
+2017-11-16 11:35:51 main.py[line:238] DEBUG -------->17
+2017-11-16 11:35:51 main.py[line:242] INFO --->Now is saving! job_nums=998
+2017-11-16 11:35:51 main.py[line:230] DEBUG -------->15
+2017-11-16 11:35:51 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:35:54 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:35:54 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:35:55 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:35:55 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:35:55 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:35:55 main.py[line:232] DEBUG -------->16
+2017-11-16 11:35:55 main.py[line:238] DEBUG -------->17
+2017-11-16 11:35:55 main.py[line:242] INFO --->Now is saving! job_nums=9328
+2017-11-16 11:35:55 main.py[line:230] DEBUG -------->15
+2017-11-16 11:35:55 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:35:57 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:35:57 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:35:58 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:35:58 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:35:58 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:35:58 main.py[line:232] DEBUG -------->16
+2017-11-16 11:35:58 main.py[line:238] DEBUG -------->17
+2017-11-16 11:35:58 main.py[line:242] INFO --->Now is saving! job_nums=5825
+2017-11-16 11:35:58 main.py[line:230] DEBUG -------->15
+2017-11-16 11:35:58 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:36:02 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:36:02 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:36:02 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:36:02 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:36:02 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:36:02 main.py[line:232] DEBUG -------->16
+2017-11-16 11:36:02 main.py[line:238] DEBUG -------->17
+2017-11-16 11:36:02 main.py[line:242] INFO --->Now is saving! job_nums=3362
+2017-11-16 11:36:03 main.py[line:230] DEBUG -------->15
+2017-11-16 11:36:03 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:36:05 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:36:05 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:36:05 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:36:05 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:36:05 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:36:05 main.py[line:232] DEBUG -------->16
+2017-11-16 11:36:05 main.py[line:238] DEBUG -------->17
+2017-11-16 11:36:05 main.py[line:242] INFO --->Now is saving! job_nums=3310
+2017-11-16 11:36:05 main.py[line:230] DEBUG -------->15
+2017-11-16 11:36:05 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:36:08 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:36:08 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:36:08 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:36:08 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:36:08 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:36:08 main.py[line:232] DEBUG -------->16
+2017-11-16 11:36:08 main.py[line:238] DEBUG -------->17
+2017-11-16 11:36:08 main.py[line:242] INFO --->Now is saving! job_nums=5370
+2017-11-16 11:36:08 main.py[line:230] DEBUG -------->15
+2017-11-16 11:36:08 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:36:10 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:36:10 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:36:11 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:36:11 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:36:11 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:36:11 main.py[line:232] DEBUG -------->16
+2017-11-16 11:36:11 main.py[line:238] DEBUG -------->17
+2017-11-16 11:36:11 main.py[line:242] INFO --->Now is saving! job_nums=3951
+2017-11-16 11:36:11 main.py[line:230] DEBUG -------->15
+2017-11-16 11:36:11 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:36:13 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:36:13 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:36:13 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:36:13 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:36:13 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:36:13 main.py[line:232] DEBUG -------->16
+2017-11-16 11:36:14 main.py[line:238] DEBUG -------->17
+2017-11-16 11:36:14 main.py[line:242] INFO --->Now is saving! job_nums=1849
+2017-11-16 11:36:14 main.py[line:230] DEBUG -------->15
+2017-11-16 11:36:14 main.py[line:107] WARNING -------->15-->02
+2017-11-16 11:36:16 main.py[line:125] WARNING -------->15-->05
+2017-11-16 11:36:16 main.py[line:128] WARNING -------->15-->05-->01a
+2017-11-16 11:36:16 main.py[line:130] WARNING -------->15-->05-->01b
+2017-11-16 11:36:16 main.py[line:136] WARNING -------->15-->07-->finally
+2017-11-16 11:36:16 main.py[line:139] WARNING -------->15-->08
+2017-11-16 11:36:16 main.py[line:232] DEBUG -------->16
+2017-11-16 11:36:16 main.py[line:238] DEBUG -------->17
+2017-11-16 11:36:16 main.py[line:242] INFO --->Now is saving! job_nums=1802
+2017-11-16 11:36:16 main.py[line:291] INFO ============>end!

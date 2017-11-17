@@ -278,13 +278,10 @@ if __name__ == '__main__':
     # job_sites = ["51job.com"]
 
     # 机器学习、数据挖掘 、深度学习、架构师
-    # keywords = ["java", "Android",  "UI", "kotlin", u"测试"]
-    keywords = ["java", "Android",  "Python"]
+    keywords = ["java", "Android",  "UI", "kotlin", u"测试"]
     # 51job用：北京 ： jobarea=010000，
-    jobarea_names = [u"北京", u"上海", u"深圳", u"广州", u"合肥", u"杭州"]
-    jobarea_codes = ["010000", "020000", "040000", "030200", "150200", "080200"]
-    # jobarea_names = [u"深圳", u"西安", ]
-    # jobarea_codes = ["040000", "200200"]
+    jobarea_names = [u"北京", u"上海", u"深圳", u"广州", u"西安", ]
+    jobarea_codes = ["010000", "020000", "040000", "030200", "200200"]
 
     logger.info(u"============>bengin...")
     search_jobs(job_sites, keywords, jobarea_names, jobarea_codes);
