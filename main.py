@@ -4,26 +4,21 @@
 __author__ = 'Tim Liu'
 __date__ = '2017/5/5 17:52'
 
+import codecs
+import configparser
+import logging.config
+import os
+import re
+import sqlite3
 import time
-from datetime import datetime, timezone, timedelta
-
 import urllib
-from urllib.request import Request, urlopen
+from datetime import datetime, timezone, timedelta
 # import  urllib.request
 from urllib.error import URLError, HTTPError, ContentTooShortError
+from urllib.request import Request, urlopen
 
 import bs4
 from bs4 import BeautifulSoup
-
-import re
-import codecs
-
-import logging
-import logging.config
-
-import os
-import sqlite3
-import configparser
 
 
 def get_east8_date_str(format_long=True):
@@ -179,7 +174,7 @@ def save_sqlite(published_time, jobarea_name, job_nums, job_type, job_site):
 
     # r 表示不转义，保留原始字符
     sqlStr = r'INSERT INTO jobs_tb (id,published_time, jobarea_name, job_nums, job_type, job_site) VALUES(NULL, "%s",  "%s", "%d", "%s", "%s")' % (
-    published_time, jobarea_name, job_nums, job_type, job_site)
+        published_time, jobarea_name, job_nums, job_type, job_site)
     # logger.info(sqlStr)
     cur.execute(sqlStr)
     con.commit()
@@ -273,16 +268,19 @@ if __name__ == '__main__':
     # 日志文件：myapp.log,并且在屏幕上输出info级别的log
     logging.config.fileConfig("conf/logger.conf")
     logger = logging.getLogger("INFO")
-    # 前程无忧： 51job.com  ， 智联招聘：zhaopin.com
-    job_sites = ["51job.com", "zhaopin.com"]
+    # 前程无忧： 51job.com
+    job_sites = ["51job.com"]
     # job_sites = ["51job.com"]
 
     # 机器学习、数据挖掘 、深度学习、架构师
-    keywords = ["java", "Android",  "UI", "kotlin", u"测试"]
+    keywords = ["java", "Android", "UI", u"ui设计师"]
     # 51job用：北京 ： jobarea=010000，
-    jobarea_names = [u"北京", u"上海", u"深圳", u"广州", u"西安", ]
-    jobarea_codes = ["010000", "020000", "040000", "030200", "200200"]
+    # jobarea_names = [u"北京", u"上海", u"深圳", u"广州", u"西安", ]
+    # jobarea_codes = ["010000", "020000", "040000", "030200", "200200"]
+
+    jobarea_names = [u"深圳", u"西安", ]
+    jobarea_codes = ["040000", "200200"]
 
     logger.info(u"============>bengin...")
-    search_jobs(job_sites, keywords, jobarea_names, jobarea_codes);
+    search_jobs(job_sites, keywords, jobarea_names, jobarea_codes)
     logger.info(u"============>end!")
